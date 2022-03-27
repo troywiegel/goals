@@ -13,7 +13,6 @@ This is a full-stack MERN app for achieving your goals. It has full user authent
                         
 ## Table of Contents
 - [License](#license)
-- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -21,10 +20,6 @@ This is a full-stack MERN app for achieving your goals. It has full user authent
 This project is licenesed by MIT.
 <br>
 [MIT License Information](https://opensource.org/licenses/MIT)
-<br><br>
-
-## Contributing
-This app was created by [Troy Wiegel](https://github.com/troywiegel).
 <br><br>
                         
 ## Tests
